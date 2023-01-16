@@ -1,1 +1,4 @@
+<<<<<<< HEAD
 All answers are hard
+=======
+>>>>>>> parent of 59e2da0 (Update iit_answer.txt)
